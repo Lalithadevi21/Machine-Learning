@@ -1,4 +1,5 @@
-# Weight vs Height Prediction using Linear Regression
+1.Linear Regression 
+Weight vs Height Prediction 
 
 ## Project Overview
 This project predicts a person's weight based on their height using Simple Linear Regression. The dataset was cleaned, outliers were handled using the IQR method, and the model was evaluated using multiple performance metrics.
@@ -53,7 +54,8 @@ The dataset contains the following columns:
 The model shows a strong positive linear relationship between height and weight. After handling outliers and optimizing random state selection, the model achieved good prediction performance.
 
 
-## Diabetes Prediction using Logistic Regression
+2.Logistic Regression
+Diabetes Prediction using Logistic Regression
 
 ## Project Overview
 
