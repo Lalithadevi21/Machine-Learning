@@ -1,4 +1,4 @@
-###1.Linear Regression 
+#1.Linear Regression 
 
 ##Weight vs Height Prediction 
 
@@ -54,9 +54,10 @@ The dataset contains the following columns:
 ## Conclusion
 The model shows a strong positive linear relationship between height and weight. After handling outliers and optimizing random state selection, the model achieved good prediction performance.
 ---
+---
 
 
-###2.Logistic Regression
+#2.Logistic Regression
 
 ##Diabetes Prediction 
 
