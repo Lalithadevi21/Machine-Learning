@@ -55,7 +55,6 @@ The dataset contains the following columns:
 The model shows a strong positive linear relationship between height and weight. After handling outliers and optimizing random state selection, the model achieved good prediction performance.
 ---
 ---
----
 
 
 
