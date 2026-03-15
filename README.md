@@ -51,3 +51,69 @@ The dataset contains the following columns:
 
 ## Conclusion
 The model shows a strong positive linear relationship between height and weight. After handling outliers and optimizing random state selection, the model achieved good prediction performance.
+
+
+## Diabetes Prediction using Logistic Regression
+
+## Project Overview
+
+This project builds a machine learning model to predict whether a person has diabetes or not using Logistic Regression. The model is trained on medical data and learns patterns that help classify patients as diabetic or non-diabetic.
+
+## Problem Statement
+
+The goal of this project is to develop a classification model that can predict the likelihood of diabetes based on health-related features.
+
+## Dataset
+
+The dataset contains medical diagnostic measurements of patients. Some of the key features include:
+
+* Pregnancies
+* Glucose
+* Blood Pressure
+* Skin Thickness
+* Insulin
+* BMI (Body Mass Index)
+* Diabetes Pedigree Function
+* Age
+
+The target variable indicates whether the patient has diabetes (1) or not (0).
+
+## Steps Performed
+
+1. Imported necessary libraries such as Pandas, NumPy, and Scikit-learn
+2. Loaded and explored the dataset
+3. Checked data structure and summary statistics
+4. Split the dataset into training and testing sets
+5. Trained a Logistic Regression model
+6. Made predictions using the trained model
+7. Evaluated the model using accuracy and other performance metrics
+
+## Model Used
+
+Logistic Regression (Classification Algorithm)
+
+## Evaluation Metrics
+
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
+* Scikit-learn
+
+## How to Run the Project
+
+1. Clone the repository.
+2. Open the notebook file.
+3. Run the cells step by step.
+4. The model will train and display prediction results.
+
+## Conclusion
+
+The Logistic Regression model successfully classifies patients based on medical features and predicts whether a person is likely to have diabetes. This project demonstrates the use of machine learning for healthcare prediction problems.
+
