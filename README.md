@@ -123,7 +123,7 @@ The Logistic Regression model successfully classifies patients based on medical 
 
 
 # 3.Random Forest
-#Credit Card Prediction
+# Credit Card Prediction
 
 ## Project Overview
 
