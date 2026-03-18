@@ -113,14 +113,74 @@ Logistic Regression (Classification Algorithm)
 * Matplotlib / Seaborn
 * Scikit-learn
 
-## How to Run the Project
 
-1. Clone the repository.
-2. Open the notebook file.
-3. Run the cells step by step.
-4. The model will train and display prediction results.
 
 ## Conclusion
 
 The Logistic Regression model successfully classifies patients based on medical features and predicts whether a person is likely to have diabetes. This project demonstrates the use of machine learning for healthcare prediction problems.
+---
+---
+
+
+# 3.Random Forest
+#Credit Card Prediction
+
+## Project Overview
+
+This project builds a machine learning model using the Random Forest algorithm to predict credit card-related outcomes based on given input features. It demonstrates how ensemble learning improves prediction performance compared to basic models.
+
+## Problem Statement
+
+The objective is to develop a classification model that can accurately predict outcomes related to credit card data.
+
+## Dataset
+
+The dataset contains multiple features related to users and their financial behavior.
+Target variable represents the prediction outcome (such as approval, default, or classification category).
+
+## Steps Performed
+
+1. Imported required libraries (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+2. Loaded and explored the dataset
+3. Checked for missing values and data types
+4. Performed basic data preprocessing
+5. Split the data into training and testing sets
+6. Trained the model using Random Forest Classifier
+7. Made predictions on test data
+8. Evaluated model performance
+
+## Model Used
+
+Random Forest Classifier (Ensemble Learning)
+
+## Evaluation Metrics
+
+* Accuracy Score
+* Confusion Matrix
+* Classification Report
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## Key Advantages of Random Forest
+
+* Handles overfitting better than Decision Trees
+* Works well with large datasets
+* Provides high accuracy
+* Robust to noise and outliers
+
+
+
+## Conclusion
+
+The Random Forest model provides strong prediction performance for the credit card dataset. It effectively captures complex patterns in the data and improves overall classification accuracy.
+
+
+
 
